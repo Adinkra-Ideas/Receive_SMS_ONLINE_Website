@@ -1,6 +1,6 @@
 # Receive_SMS_ONLINE_Website
 
-The sample big json object that I made after using individual sample json objects to mock the backend data for Views.
+The sample json object that I made after using individual sample json objects to mock the backend data for Views.
 This big json object is a connection of all the individual pages sample json, and it helped me lay the basis for drawing the db table relationships.
 
     $countries = [
